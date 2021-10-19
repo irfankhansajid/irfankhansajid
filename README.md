@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning DSA and web development 
 - 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me email: irfankhansajid@gmail.com 
+- 📫 How to reach me email: irfankhansajid@gmail.com or Linkedin: www.linkedin.com/in/irfankhansajid
 
 <!---
 irfankhansajid/irfankhansajid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
