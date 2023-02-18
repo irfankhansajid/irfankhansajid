@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @irfankhansajid
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning DSA and web development 
-- 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me email: irfankhansajid@gmail.com or Linkedin: www.linkedin.com/in/irfankhansajid
+- # Hi, I’m @irfankhansajid
+-  I’m interested in Coding, traving and historical story
+-  I’m currently working in Java Spring framework also develop Android apps
+-  I’m looking to collaborate on a project
+-  Reach me email: irfankhansajid@gmail.com or Linkedin: www.linkedin.com/in/irfankhansajid
 
 <!---
 irfankhansajid/irfankhansajid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
